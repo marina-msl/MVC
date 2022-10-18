@@ -1,4 +1,4 @@
-package domain;
+package br.com.mml.domain;
 
 public class Person {
 	

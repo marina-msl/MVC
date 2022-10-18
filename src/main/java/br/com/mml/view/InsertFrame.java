@@ -1,4 +1,4 @@
-package view;
+package br.com.mml.view;
 
 import java.awt.Dimension;
 import java.awt.GridLayout;

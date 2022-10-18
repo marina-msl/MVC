@@ -1,4 +1,4 @@
-package controller;
+package br.com.mml.controller;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
