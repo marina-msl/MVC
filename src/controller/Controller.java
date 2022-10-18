@@ -28,6 +28,8 @@ public class Controller {
 			
 			view.setMessage(person.toString());
 			
+			view.setTextAddress("");
+			
 		}
 		
 	}
